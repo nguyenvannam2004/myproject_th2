@@ -1,5 +1,6 @@
 <?php
-
+// Đây là mã PHP có thể thực hiện các công việc như kiểm tra đăng nhập, hiển thị lỗi, v.v.
+?>
 
 <!DOCTYPE html>
 <html lang="vi">
@@ -60,5 +61,3 @@
     </div>
 </body>
 </html>
-
-?>
