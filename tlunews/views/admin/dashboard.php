@@ -1,4 +1,3 @@
-<?php
 <!DOCTYPE html>
 <html lang="vi">
 <head>
@@ -155,6 +154,3 @@
     </div>
 </body>
 </html>
-
-
-?>
